@@ -1,0 +1,15 @@
+.gradle
+.idea
+\task
+*.yaml
+*.html
+settings.gradle
+main/
+gradlew.bat
+gradlew
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+build.gradle
+.gitattributes
+*.kotlin_module
+*.class
